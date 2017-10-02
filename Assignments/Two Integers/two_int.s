@@ -1,18 +1,3 @@
-/*        
-	printf("Enter an integer for first number: ");
-        scanf("%d", &number_1);
-
-        printf("Enter an integer for second number: ");
-        scanf("%d", &number_2);
-
-        sum = number_1 + number_2;
-        difference = number_2 - number_1;
-        product = number_1 * number_2;
-
-        printf("The sum of %d and %d is %d\n\n",number_1,number_2,sum);
-        printf("The difference of %d and %d is %d\n\n",number_1,number_2,difference);
-        printf("The product of %d and %d is %d\n\n",number_1,number_2,product);
-*/
 .section .data
 
 prompt:     .asciz "Hello! Welcome to Two Integers.\n\n"
