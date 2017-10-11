@@ -52,7 +52,7 @@ main: 	push {lr}         	/*save our return address*/
         ldr r3, =sum		/*Load address of sum*/
         str r2, [r3]		/*Store value of sum from r2 to r3*/
 
-        sub r2, r1, r0
+        sub r2, r0, r1
         ldr r3, =difference	/*Load address of difference*/
         str r2, [r3]		/*Store value of difference from r2 to r3*/
 
