@@ -1,4 +1,4 @@
-/* Two_Integers
+/* Two_Integers provided by Instructor
  *
  * Take the following C/C++ program and convert it to an ARM Assembly Language program
  * with the techniques we have discussed in class:
