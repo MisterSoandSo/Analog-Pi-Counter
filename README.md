@@ -1,4 +1,6 @@
-# CIS---11 Assembly
+# Analog Pi Counter
+A raspberry pi program writen in ARM assembly and C++ to interface a analog circuit design to control a 7-segment display with each input signal triggers.
 
-## Andrew So --- FALL 2017
-### Student repository for Assigment and Project Section
+## Final Prooduct
+
+
